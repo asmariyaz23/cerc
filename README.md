@@ -1,3 +1,5 @@
+This script was written as part of skills test: https://github.com/CERC-Genomic-Medicine/skills_test_2
+
 Modules used:
 
   - cyvcf2 - '0.30.18'
